@@ -3,16 +3,16 @@
 
 - 🎓 **Recent Software Engineering Graduate** from Universiti Tunku Abdul Rahman (UTAR).
 - 🌱 Currently developing within the **Java/Spring Boot** and **PHP/Laravel** ecosystems.
-- **Currently Building**: A **Stock Market Viewer** with Spring Boot and React.
-- Interested in building scalable backend architectures and high-precision logic systems.
-- Enthusiastic about **Software Engineering** and system integrity.
+- 🏗️ **Currently Building**: A **Stock Market Viewer** with Spring Boot and React.
+- 📊 Interested in building scalable backend architectures and high-precision logic systems.
+- 🛡️ Enthusiastic about **Software Engineering** and system integrity.
 
 ### 🚀 Featured Projects
 
 *   **[SwiftSpend](https://github.com/TJ9659/Fullstack-Digital-Wallet-MVP)** | *Spring Boot, React, JWT, PostgreSQL*
     *   Developed a digital wallet MVP featuring **double-entry ledger logic** and custom high-precision error validation for financial accuracy.
 *   **[VantagePL](https://github.com/TJ9659/premier-league-stats-fullstack)** | *Spring Boot, React, Python, PostgreSQL*
-    *   Built a full-stack analytics platform to scrape and visualize **Premier League** performance and financial data.
+    *   Built a full-stack analytics platform to scrape and visualize **Premier League** performance and team, country, player data.
 *   **[Insurance Quotation System](https://github.com/TJ9659/Full-stack-Digital-Quotation-Engine)** | *Spring Boot, React, PostgreSQL*
     *   Developed a specialized quotation engine utilizing **BigDecimal** for high-precision premium calculations and automated risk assessment logic.
 *   **[Evently](https://github.com/TJ9659/mini-online-event-platform)** | *Laravel, Vue.js, Inertia.js, MySQL*
