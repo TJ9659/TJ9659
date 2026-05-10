@@ -19,7 +19,7 @@
     *   Engineered an event-booking system with complex time-constraint logic to manage concurrent and future scheduling.
 *   **[Job Board Platform](https://github.com/TJ9659/mini-job-board-application)** | *Laravel, Vue.js, MySQL*
     *   Developed a job portal supporting PDF resume uploads, applicant tracking, and efficient database indexing for optimized job searches.
-*   **[AI Lost & Found](https://github.com/TJ9659/lost-and-found-mobile-application)** | *React Native, Google Vision AI, NLP, MySQL*
+*   **[AI Lost & Found](https://github.com/TJ9659/lost-and-found-mobile-application)** | *Laravel, React Native, Google Vision AI, NLP, MySQL*
     *   Created a mobile solution using **computer vision** and **NLP-driven semantic search** to intelligently match similar items (e.g., "water bottle" vs "flask").
 
 ### 🛠 Tech Stack & Tools
