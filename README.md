@@ -28,6 +28,6 @@
 | :--- | :--- |
 | **Languages** | Java, PHP, JavaScript, TypeScript, Python, SQL |
 | **Backend** | Spring Boot, Laravel, Node.js |
-| **Frontend** | React.js, Vue.js, Inertia.js, React Native, Tailwind CSS |
-| **Database** | MySQL, PostgreSQL (Efficient Indexing & Architecture) |
-| **DevOps/Tools** | Git, Postman, JWT, REST APIs |
+| **Frontend** | React.js, Vue.js, React Native, Tailwind CSS |
+| **Database** | MySQL, PostgreSQL |
+| **DevOps/Tools** | Git, Docker, Postman, JWT, REST APIs |
