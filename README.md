@@ -13,7 +13,7 @@
     *   Developed a digital wallet MVP featuring **double-entry ledger logic** and custom high-precision error validation for financial accuracy.
 *   **[VantagePL](https://github.com/TJ9659/premier-league-stats-fullstack)** | *Spring Boot, React, Python, PostgreSQL*
     *   Built a full-stack analytics platform to scrape and visualize **Premier League** performance and financial data.
-*   **[Insurance Quotation System](https://github.com/TJ9659/Full-stack-Digital-Quotation-Engine)** | *Java, Spring Boot, PostgreSQL*
+*   **[Insurance Quotation System](https://github.com/TJ9659/Full-stack-Digital-Quotation-Engine)** | *Spring Boot, React, PostgreSQL*
     *   Developed a specialized quotation engine utilizing **BigDecimal** for high-precision premium calculations and automated risk assessment logic.
 *   **[Evently](https://github.com/TJ9659/mini-online-event-platform)** | *Laravel, Vue.js, Inertia.js, MySQL*
     *   Engineered an event-booking system with complex time-constraint logic to manage concurrent and future scheduling.
