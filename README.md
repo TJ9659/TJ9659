@@ -3,10 +3,9 @@
 
 - 🎓 **Recent Software Engineering Graduate** from Universiti Tunku Abdul Rahman (UTAR).
 - 🌱 Currently developing within the **Java/Spring Boot** and **PHP/Laravel** ecosystems.
-- 🏗️ **Currently Building**: A **Stock Market Viewer** with Spring Boot and React.
-- 📊 Interested in building scalable backend architectures and high-precision logic systems.
-- ⚽ When I'm not coding, I'm likely analyzing Premier League data or exploring football analytics.
-- 🛡️ Enthusiastic about **Software Engineering** and system integrity.
+- **Currently Building**: A **Stock Market Viewer** with Spring Boot and React.
+- Interested in building scalable backend architectures and high-precision logic systems.
+- Enthusiastic about **Software Engineering** and system integrity.
 
 ### 🚀 Featured Projects
 
